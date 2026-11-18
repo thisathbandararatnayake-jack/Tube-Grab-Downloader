@@ -3,7 +3,7 @@ Tube Grab is a sleek Windows desktop app for downloading YouTube videos and Shor
 
 <img width="959" height="477" alt="Screenshot 2026-11-18 200458" src="https://github.com/user-attachments/assets/7400dc4f-b54d-4e71-a624-40f415670684" />
 
-A sleek, dark-themed Downloader app built with Python powered by yt-dlp. And also this app supports High resalution video download and MP3 download 
+A sleek, dark-themed Downloder app built with Python powered by yt-dlp. And also this app supports High resolution video download and MP3 download 
 
 <img width="958" height="404" alt="Screenshot 2026-11-18 200613" src="https://github.com/user-attachments/assets/39f9a490-88d8-4b46-bd3b-a6e036e53601" />
 
